@@ -1,0 +1,424 @@
+/* here you can put your own css to customize and override the theme */
+
+@media (min-width: 1441px) {
+    .text-wrapper {
+        margin: 39px 0px;
+        text-align: center;
+    }
+
+    .page-contents {
+        margin: 0px 170px;
+    }
+
+}
+
+@media (min-width: 900px) {
+    .summary-card {
+        font-size: 75px;
+        background: #F5F5F5;
+        margin: 10px 20px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .text-wrapper {
+        margin: 28px 8px;
+        text-align: center;
+    }
+
+    .page-contents {
+        margin: 0px 150px;
+    }
+
+    .text-wrapper .number {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .text-wrapper .title {
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0px;
+    }
+
+    .text-wrapper .subtitle {
+        font-size: 16px;
+        font-weight: 500;
+        margin: 0px;
+    }
+
+    .statisctics .icon i {
+        font-size: 55px;
+        margin: 88px 0px;
+    }
+
+}
+
+@media (max-width: 900px) {
+    .summary-card {
+        font-size: 50px;
+        background: #F5F5F5;
+        margin: 10px 5px;
+    }
+
+    .page-contents {
+        margin: 0px 50px;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .page-contents {
+        margin: 0 10px;
+    }
+
+    .text-wrapper .title {
+        font-size: 12px;
+    }
+
+    .text-wrapper .subtitle {
+        font-size: 10px;
+    }
+
+    .text-wrapper {
+        margin: 28px 0;
+        text-align: center;
+    }
+
+    .statisctics .icon i {
+        font-size: 35px;
+    }
+
+    .filter {
+        font-size: 30px !important;
+        width: 60px !important;
+    }
+
+    .filter-font {
+        font-size: 16px;
+        margin-top: -5px;
+        padding-bottom: 83px !important;
+    }
+
+    .filter-form {
+        width: 300px !important;
+        display: none;
+    }
+
+    .filter-active {
+        right: 300px !important;
+    }
+
+}
+
+a {
+    text-shadow: none;
+    color: #000000 !important;
+}
+
+div {
+}
+
+body.page-md {
+    background: #F3F9FC !important;
+}
+
+.portlet {
+    box-shadow: none !important;
+}
+
+.portlet.light.bordered {
+    border: none !important;
+}
+
+.filter-font {
+    font-size: 16px;
+    margin-top: -5px;
+    padding-bottom: 5px;
+}
+
+.filter {
+    font-size: 50px;
+    width: 100px;
+    background: #FF6F67;
+    position: fixed;
+    text-align: center;
+    z-index: 999999;
+    color: white;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.inactive-filter {
+    right: 0;
+}
+
+.filter-active {
+    right: 500px;
+}
+
+.filter-form {
+    position: fixed;
+    right: 0;
+    z-index: 99999;
+    background: gray;
+    width: 500px;
+    display: none;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../picture/bg-img.png");
+
+    /* Set a specific height */
+    height: 200px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header-fixed .page-container {
+    margin-top: 75px;
+    padding: 40px 0;
+}
+
+.dashboard-stat.pink {
+    background-color: #FFCFCC !important;
+    color: #9B9B9B !important;
+}
+
+.dashboard-stat .more {
+    background-color: #FFB7B3;
+    color: #FF8680;
+    font-weight: 700;
+}
+
+.statisctics {
+    background-color: #FFB7B3;
+    height: 190px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 0px;
+}
+
+.statisctics .icon-reverse i {
+    font-size: 55px;
+    margin: 88px 0px;
+}
+
+.mt-element-ribbon .ribbon.ribbon-color-success:after {
+    border-color: #EDF8F3 !important;
+}
+
+.mt-element-ribbon .ribbon > .ribbon-sub.ribbon-clip.ribbon-right:after {
+    border-width: 0px;
+    /* border-left-color: #222 !important; */
+    right: 0;
+}
+
+
+/*.stat i {*/
+/*    opacity: 0.1;*/
+/*}*/
+
+/*.icon-box-summary:hover {*/
+/*    background-color: #FFB7B3;*/
+/*}*/
+
+/*.text-box-summary:hover {*/
+/*    background-color: #FFB7B3;*/
+/*}*/
+
+.right-subtitle {
+    margin-left: 10px;
+}
+
+.form-wizard .steps > li.active > a.step .number {
+    background: linear-gradient(225deg, #46B989 0%, rgba(255, 255, 255, 0) 100%), #57BF94;
+    color: #F5F5F5;
+}
+
+.form-wizard .steps > li.active > a.step .desc {
+    color: #57BF94;
+    font-weight: 500;
+}
+
+.progress-bar-success {
+    background: linear-gradient(225deg, #46B989 0%, rgba(255, 255, 255, 0) 100%), #57BF94;
+}
+
+.icon {
+    color: #FF8680;
+    background: #FFCFCC;
+}
+
+.icon-reverse {
+    color: #E8E8E8;
+    background: #FFFFFF;
+}
+
+.text-stat {
+    background: #FFB7B3;
+    color: white;
+}
+
+.text-stat-reverse {
+    background: #FAEDEB;
+    color: #9B9B9B;
+}
+
+.badge-primary {
+    background-color: #EDF8F3;
+    background-image: none;
+    color: #46B989 !important;
+    border-radius: 5px !important;
+    box-shadow: none;
+}
+
+.btn {
+    box-shadow: none !important;
+    color: white !important;
+}
+
+.panel {
+    box-shadow: none !important;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    z-index: 3;
+    color: #fff;
+    background-color: #ffb7b3;
+    border-color: #ffb7b3;
+    cursor: default;
+}
+
+.btn-default {
+    background-color: #D9D9D9 !important;
+    color: #9B9B9B !important;
+}
+
+.btn-default.active, .btn-default:active, .btn-default:hover, .open > .btn-default.dropdown-toggle {
+    color: #333;
+    background-color: #c3c3c3 !important;
+    border-color: #adadad;
+}
+
+.label-info {
+    background-color: #A0D8F8 !important;
+    color: #58BBF3;
+}
+
+.label-info .icon {
+    color: #58BBF3 !important;
+    background: none !important;
+}
+
+.label-default {
+    background-color: #CCCCCC !important;
+    color: #9B9B9B;
+}
+
+.label-default .icon {
+    color: #9B9B9B !important;
+    background: none !important;
+}
+
+.icon-box {
+    text-align: center;
+    font-size: 80px;
+    background: #FFCFCC;
+    color: #FF8680;
+}
+
+.icon-box-summary {
+    text-align: center;
+    font-size: 80px;
+    background: #F5F5F5;
+    color: #9B9B9B;
+}
+
+.icon-box-reverse {
+    text-align: center;
+    font-size: 80px;
+    background: #FFFFFF;
+    color: #E8E8E8;
+}
+
+.icon-box i {
+    margin: 100px 0;
+}
+
+.icon-box-summary i {
+    margin: 70px 0;
+}
+
+.icon-box-reverse i {
+    margin: 100px 0;
+}
+
+.text-box {
+    text-align: center;
+    padding: 51px 0;
+    background: #FFB7B3;
+    color: white;
+}
+
+.text-box-reverse {
+    text-align: center;
+    padding: 51px 0;
+    background: #FAEDEB;
+    color: #9B9B9B;
+}
+
+.text-box-summary {
+    text-align: center;
+    padding: 26px 0;
+    background: #F5F5F5;
+    color: #9B9B9B;
+}
+
+.wrapper .number {
+    font-size: 32px;
+    margin: 0px;
+}
+
+.wrapper .title {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.wrapper .subtitle {
+    margin: 0px;
+    font-size: 14px;
+}
+
+.stat {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.label-danger {
+    background-color: #FFB7B3;
+    color: #FF6E66;
+}
+
+.label-danger .icon {
+    color: #FF6E66;
+    background: none;
+}
+
+.label .icon {
+    background: none;
+}
+
+.label-success .icon {
+    color: white;
+    background: none;
+}
+
+.label-warning .icon {
+    color: white;
+    background: none;
+}

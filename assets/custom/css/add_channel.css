@@ -1,0 +1,25 @@
+.select-media {
+    padding-bottom: 20px;
+}
+
+.image-media {
+    max-width: 50px;
+}
+
+.radio-btn-div label div {
+    padding-top: 13px;
+}
+
+.title-media {
+    padding-bottom: 20px;
+}
+
+.online-card {
+    /*background-color: #eef0f1;*/
+    /*border-radius: 10px 0px 0px 10px;*/
+}
+
+.offline-card {
+    /*background-color: #eef0f1;*/
+    /*border-radius: 0px 10px 10px 0px;*/
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6c664a-fb6d-42cc-9cc0-588c8d67b2fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/project/channel/table-view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/project/channel/table-view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pages/scripts/table-datatables-managed.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pages/scripts/table-datatables-managed.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vbd09SK9iudiPoZVruYq8mErHh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6c664a-fb6d-42cc-9cc0-588c8d67b2fe" name="Default Changelist" comment="" />
+      <created>1570087243115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570087243115</updated>
+      <workItem from="1570087249216" duration="889000" />
+      <workItem from="1570347234753" duration="5162000" />
+      <workItem from="1570592518000" duration="20143000" />
+      <workItem from="1571393901159" duration="8102000" />
+      <workItem from="1572409644833" duration="4943000" />
+      <workItem from="1577525512956" duration="13541000" />
+      <workItem from="1577720239549" duration="5036000" />
+      <workItem from="1577761064887" duration="310000" />
+      <workItem from="1578041334176" duration="69000" />
+      <workItem from="1579138313246" duration="54000" />
+      <workItem from="1579444719448" duration="704000" />
+      <workItem from="1579749517955" duration="13000" />
+      <workItem from="1580097383298" duration="2581000" />
+      <workItem from="1580450214301" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="(*) SPLIT PHONE &amp; EMAIL FROM DATATABLES NAME FIELD">
+      <created>1574867256206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574867256207</updated>
+    </task>
+    <task id="LOCAL-00002" summary="(*) FIX DATA TABLES SHOW HIDE COLUMN FILTER">
+      <created>1577688364743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577688364744</updated>
+    </task>
+    <task id="LOCAL-00003" summary="(*) ( MINOR FIXING ) DATA TABLES SHOW HIDE COLUMN FILTER">
+      <created>1577690793832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577690793833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="(*) ( MINOR FIXING ) DATA TABLES SHOW HIDE COLUMN ON SALES TEAM &amp; OFFICER">
+      <created>1577760838218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577760838218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="(*) FIX CAMPAIGN TABLE NAME FIELD">
+      <created>1579445337311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579445337311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="(*) FIX PROJECT TABLE ON CLIENT ADMIN ROLE">
+      <created>1580100125762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580100125762</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(*) SPLIT PHONE &amp; EMAIL FROM DATATABLES NAME FIELD" />
+    <MESSAGE value="(*) FIX DATA TABLES SHOW HIDE COLUMN FILTER" />
+    <MESSAGE value="(*) ( MINOR FIXING ) DATA TABLES SHOW HIDE COLUMN FILTER" />
+    <MESSAGE value="(*) ( MINOR FIXING ) DATA TABLES SHOW HIDE COLUMN ON SALES TEAM &amp; OFFICER" />
+    <MESSAGE value="(*) FIX CAMPAIGN TABLE NAME FIELD" />
+    <MESSAGE value="(*) FIX PROJECT TABLE ON CLIENT ADMIN ROLE" />
+    <option name="LAST_COMMIT_MESSAGE" value="(*) FIX PROJECT TABLE ON CLIENT ADMIN ROLE" />
+  </component>
+</project>

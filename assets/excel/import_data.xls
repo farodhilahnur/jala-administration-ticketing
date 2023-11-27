@@ -1,0 +1,85 @@
+
+<table class="table table-striped table-bordered table-hover table-checkable order-column" id="sample_1">
+    <thead>
+        <tr>
+            <th> # </th>
+            <th id="leadNameHeader"> Name </th>
+            <th id="leadAddressHeader"> Address </th>
+            <th id="leadCategoryHeader"> Category </th>
+            <th id="leadStatusHeader"> Status </th>
+            <th id="leadSalesTeamHeader"> Sales Team </th>
+            <th id="leadSalesOfficerHeader"> Sales Officer </th>
+            <th id="leadCampaignHeader"> Campaign </th>
+            <th id="leadChannelHeader"> Channel </th>
+            <th id="leadProductHeader"> Product </th>
+            <th id="leadDateHeader"> Created </th>
+            <th id="leadLastUpdateHeader"> Updated </th>
+            <th id="leadNoteHeader"> Note </th>
+            <th> Action </th>
+        </tr>
+    </thead>
+    <tbody>
+                        <tr>    
+                    <td>1</td>
+                    <td id="leadNameField-0">Test Offline<br><b><i>6281273529163</b</i><br><b><i>test_offline_jakbar@gmail.com</b</i></td>
+                    <td id="leadAddressField-0">jl malang<br><b><i>Kota Jakarta Barat</b></i></td>
+                    <td id="leadCategoryField-0"><label class="label label-md label-success"> <span class="icon icon-book-open"></span>&nbsp;Warm</label></td>
+                    <td id="leadStatusField-0">
+                        <button class="btn btn-default btn-xs btnShowHistoryLead"
+                                data-toggle="modal" href="#history"
+                                id="showHistory-65017"
+                                data-id="65017"
+                                >
+                                    Interested                        </button>
+                    </td>
+                    <td id="leadSalesTeamField-0">Team Jakbar Jose</td>
+                    <td id="leadSalesOfficerField-0">Sales Jakbar Jose</td>
+                    <td id="leadCampaignField-0">CAMPAIGN JAKBAR JOSE</td>
+                    <td id="leadChannelField-0">CHANNEL OFFLINE JAKBAR JOSE</td>
+                    <td id="leadProductField-0">PRODUCT JAKBAR JOSE</td>
+                    <td id="leadDateField-0">2019-10-06 09:14:12</td>
+                    <td id="leadLastUpdateField-0">2019-10-06 09:09:56</td>
+                    <td id="leadNoteField-0">test offline</td>
+                    <td>
+                        <button class="btn btn-warning btn-xs btnFollowUp"
+                                data-toggle="modal" href="#follow-up"
+                                id="followUpLead-65017"
+                                data-id="65017"
+                                >
+                            <i class="fa fa-bars"></i>
+                        </button>
+                    </td>
+                </tr>
+                                <tr>    
+                    <td>2</td>
+                    <td id="leadNameField-1">PELANGGAN TEST<br><b><i> 6282233080234</b</i><br><b><i>hpsx86@gmail.com</b</i></td>
+                    <td id="leadAddressField-1">malang<br><b><i>Kota Jakarta Barat</b></i></td>
+                    <td id="leadCategoryField-1"><label class="label label-md label-default"> <span class="icon icon-book-open"></span>&nbsp;New</label></td>
+                    <td id="leadStatusField-1">
+                        <button class="btn btn-default btn-xs btnShowHistoryLead"
+                                data-toggle="modal" href="#history"
+                                id="showHistory-65016"
+                                data-id="65016"
+                                >
+                                    New Leads                        </button>
+                    </td>
+                    <td id="leadSalesTeamField-1">Team Jakbar Jose</td>
+                    <td id="leadSalesOfficerField-1">Sales Jakbar Jose</td>
+                    <td id="leadCampaignField-1">CAMPAIGN JAKBAR JOSE</td>
+                    <td id="leadChannelField-1">CHANNEL JAKBAR JOSE</td>
+                    <td id="leadProductField-1"></td>
+                    <td id="leadDateField-1">2019-10-06 09:06:20</td>
+                    <td id="leadLastUpdateField-1">2019-10-06 09:09:56</td>
+                    <td id="leadNoteField-1">testt </td>
+                    <td>
+                        <button class="btn btn-warning btn-xs btnFollowUp"
+                                data-toggle="modal" href="#follow-up"
+                                id="followUpLead-65016"
+                                data-id="65016"
+                                >
+                            <i class="fa fa-bars"></i>
+                        </button>
+                    </td>
+                </tr>
+                    </tbody>
+</table>
